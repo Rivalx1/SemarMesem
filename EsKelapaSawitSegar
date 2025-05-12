@@ -156,7 +156,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
 #EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://iili.io/JV3xmPe.png" group-title="Saluran",TVRI World
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="09. Sports TV",003. SportStars1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="Saluran Olahraga",003. SportStars1
 https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="Saluran Olahraga", SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -207,13 +207,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 #KODIPROP:key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="09. Sports TV",016. AstroFootball
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="Saluran Olahraga",016. AstroFootball
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="09. Sports TV",011. AstroArenaBola1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="Saluran Olahraga",011. AstroArenaBola1
 https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="09. Sports TV",012. AstroArenaBola2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="Saluran Olahraga",012. AstroArenaBola2
 https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="09. Sports TV",019. AstroBadminton1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="Saluran Olahraga",019. AstroBadminton1
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="09. Sports TV",020. AstroBadminton2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="Saluran Olahraga",020. AstroBadminton2
 https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
