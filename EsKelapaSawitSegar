@@ -156,18 +156,13 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
 #EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://iili.io/JV3xmPe.png" group-title="Saluran",TVRI World
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
-#EXTINF:-1  tvg-name="Sportstars 2 HD" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="Saluran Olahraga",SPORTSTARS 2
-#KODIPROP:inputstream=113
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="Saluran Olahraga", SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=113
-#KODIPROP:key=113
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=113
-#EXTINF:-1  tvg-name="Soccer Channel" tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?https://i.imgur.com/68y2OmC.png" group-title="Saluran Olahraga",SOCCER CHANNEL
-#KODIPROP:inputstream=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#KODIPROP:key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="Saluran Olahraga", SOCCER CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
 #EXTINF:-1  tvg-name="beIN Sports" tvg-id="beINSports1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdL8HE4KYHPSgzpZrLAoCMLFQNLbqtjc3WvjfsbdMDFHYyJ8XMknX0WU&s=10" group-title="Saluran Olahraga",beIN Sports 1 
 #KODIPROP:inputstream=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
