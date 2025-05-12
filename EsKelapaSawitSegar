@@ -106,26 +106,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1  tvg-name="BTV" tvg-id="BTV.id" tvg-logo="https://i.imgur.com/T070Wbh.png" group-title="Saluran",BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
-#EXTINF:-1  tvg-name="Garuda TV" tvg-id="GarudaTV.id" tvg-logo="https://iili.io/2rCEOZl.png" group-title="Saluran",Garuda TV
-#KODIPROP:inputstream=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-#KODIPROP:key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1  tvg-name="IDTV" tvg-id="IDTV.id" tvg-logo="https://iili.io/28yoeNn.png" group-title="Saluran",IDTV
-#KODIPROP:inputstream=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#KODIPROP:key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1  tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="Saluran",Oxygen TV
 #KODIPROP:inputstream=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #KODIPROP:key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1  tvg-name="SEA Today" tvg-id="SEAToday.id" tvg-logo="https://iili.io/JV3xLAl.png" group-title="Saluran",SEA Today
-http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
 #EXTINF:-1  tvg-name="TVOne" tvg-id="tvOne.my.id" tvg-logo="https://i.imgur.com/tq4taTY.png" group-title="Saluran",TVOne
 #EXTVLCOPT:http-user-agentMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=https://cubmu-cindo.cenc16995.workers.dev/
