@@ -112,9 +112,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 #KODIPROP:key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1  tvg-name="BN Channel" tvg-id="BNTV" tvg-logo="https://iili.io/JbtCoiu.png" group-title="Saluran",BN Channel
-#EXTVLCOPT:http-user-agentMozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1  tvg-name="IDTV" tvg-id="IDTV.id" tvg-logo="https://iili.io/28yoeNn.png" group-title="Saluran",IDTV
 #KODIPROP:inputstream=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
