@@ -207,13 +207,25 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 #KODIPROP:key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="Saluran Olahraga",016. AstroFootball
-https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="Saluran Olahraga",Astro Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.newkso.ru/wind/premium124/mono.m3u8
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="Saluran Olahraga",Astro Grandstand HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="Saluran Olahraga",Astro Premier League 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="Saluran Olahraga",Astro Premier League 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="Saluran Olahraga",011. AstroArenaBola1
 https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="Saluran Olahraga",012. AstroArenaBola2
 https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="Saluran Olahraga",019. AstroBadminton1
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="Saluran Olahraga",020. AstroBadminton2
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
