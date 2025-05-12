@@ -129,13 +129,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTINF:-1  tvg-name="SEA Today" tvg-id="SEAToday.id" tvg-logo="https://iili.io/JV3xLAl.png" group-title="Saluran",SEA Today
 http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/JMp3Qls.png" group-title="Saluran",TRANS7 2
-#KODIPROP:inputstream=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1  tvg-name="TVOne" tvg-id="tvOne.my.id" tvg-logo="https://i.imgur.com/tq4taTY.png" group-title="Saluran",TVOne
 #EXTVLCOPT:http-user-agentMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=https://cubmu-cindo.cenc16995.workers.dev/
@@ -151,10 +144,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9
 #EXTINF:-1  tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="Saluran",TVRI Nasional
 #EXTVLCOPT:http-user-agentTVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
-#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRISport.id" tvg-logo="https://iili.io/JjzVLl9.png" group-title="Saluran",TVRI Sport
-#EXTVLCOPT:http-user-agentTVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
-#EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://iili.io/JV3xmPe.png" group-title="Saluran",TVRI World
+#EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="Saluran",TVRI World
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="Saluran Olahraga",SPORTSTARS
 https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
