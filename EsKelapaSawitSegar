@@ -13,21 +13,22 @@ https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 #KODIPROP:key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
-#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="Saluran",GTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1  tvg-name="MNCTV" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="Saluran",MNCTV
-#EXTVLCOPT:http-user-agentExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#KODIPROP:key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1  tvg-name="RCTI" tvg-id="RCTI.id" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="Saluran",RCTI
-#KODIPROP:inputstream=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-#KODIPROP:key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="Saluran",GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:0 tvg-id="MNCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="Saluran", MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="Saluran",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/PAy1NQ4.png" group-title="Saluran",iNews
 #KODIPROP:inputstream=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -56,18 +57,10 @@ http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 #KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
 #KODIPROP:key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
 https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
-#EXTINF:-1  tvg-name="Trans 7" tvg-id="Trans7.my.id" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/02/Trans7-Landscape.jpg" group-title="Saluran",Trans7
-#KODIPROP:inputstream=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-#KODIPROP:key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1  tvg-name="Trans TV" tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran",TransTV
-#KODIPROP:inputstream=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-#KODIPROP:key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://about.vidio.com/wp-content/uploads/2021/02/Trans7-Landscape.jpg" group-title="Saluran",Trans 7
+https://wahyu1ptv.pages.dev/Trans7-HD.m3u8
+#EXTINF:-1 tvg-logo="tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran",Trans TV
+https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
 #EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="Saluran",CNN Indonesia
 http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
 #EXTINF:-1  tvg-name="CNBC Indonesia" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/kwfGZ2N.png" group-title="Saluran",CNBC Indonesia
