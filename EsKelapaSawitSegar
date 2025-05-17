@@ -3,8 +3,6 @@
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Saluran",Al Sunnah Al Nabawiyah TV (Tv Madinah)
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Saluran",Al Sunnah Al Nabawiyah TV (Tv Madinah)
-https://amba.pages.dev/lv_0_20250517140905.mp4
 #EXTINF:-1  tvg-name="ANTV" tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="Saluran",ANTV
 #KODIPROP:inputstream=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -136,7 +134,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 #EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="Saluran",TVRI World
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
-#EXTINF:-1 tvg-id="Sportstars.id" group-title="Saluran" tvg-name="Sportstars" tvg-logo="https://i.imgur.com/OkQzNhc.png", | Sportstars
+#EXTINF:-1 tvg-id="Sportstars.id" group-title="Saluran Olahraga" tvg-name="Sportstars" tvg-logo="https://i.imgur.com/OkQzNhc.png", | Sportstars
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=112
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|referer=https://www.visionplus.id/
