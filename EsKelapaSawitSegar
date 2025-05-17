@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Saluran",Lapor Channel Mati
-https://amba.pages.dev/lapor.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Saluran",0.Lapor Channel Mati
+https://amba.pages.dev/lapor/lapor.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Saluran",Al Sunnah Al Nabawiyah TV (Tv Madinah)
