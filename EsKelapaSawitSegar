@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Saluran",0.Lapor Channel Mati
 https://amba.pages.dev/lapor/lapor.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
@@ -81,11 +81,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-#EXTINF:-1  tvg-name="Magna Channel" tvg-id="MagnaChannel.id" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" group-title="Saluran",Magna Channel
-#KODIPROP:inputstream=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
-#KODIPROP:key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://iili.io/JMp3eKg.png" group-title="Saluran", Magna Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 #EXTINF:-1  tvg-name="NET." tvg-id="NET.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkWpWhpg7-8y7i8F5tZ6EmY-KF0cOiKhdVw&s" group-title="Saluran",MDTV
 #KODIPROP:inputstream=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
