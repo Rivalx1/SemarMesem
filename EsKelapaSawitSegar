@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTINF:-1 tvg-logo="" group-title="Saluran",0.Lapor Channel Mati
 https://amba.pages.dev/lapor/lapor.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
@@ -12,7 +12,7 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #KODIPROP:key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="Saluran",GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="Saluran",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
@@ -20,7 +20,7 @@ https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Saluran",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Saluran",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd 
@@ -28,12 +28,12 @@ https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar Digital
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar Digital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 https://rahmatsmpn3sbg.co-id.id/$k0detv9246/indosliga.m3u8
 #EXTINF:-1  tvg-name="Moji" tvg-id="Moji.id" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="Saluran",MOJI
@@ -42,12 +42,12 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTVLCOPT:http-user-agentMozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream=inputstream.adaptive
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-#EXTINF:-1  tvg-name="SCTV ᴴᴰ" tvg-id="SCTV.my.id" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV Digital
+#EXTINF:-1  tvg-name="SCTV ᴴᴰ" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV Digital
 #KODIPROP:inputstream=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
