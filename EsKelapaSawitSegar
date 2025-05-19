@@ -1,70 +1,74 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Saluran",0.Lapor Channel Mati
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTINF:-1  group-title="Saluran",0.Lapor Channel Mati
 https://amba.pages.dev/lapor/lapor.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
+#EXTINF:-1  tvg-name="Al Quran Al Kareem TV" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i0.wp.com/mexawy.online/wp-content/uploads/2020/04/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-Madina-Channel.webp?fit=800%2C500&ssl=1" group-title="Saluran",Al Sunnah Al Nabawiyah TV (Tv Madinah)
+#EXTINF:-1  tvg-name="Al Sunnah Al Nabawiyah TV" tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i0.wp.com/mexawy.online/wp-content/uploads/2020/04/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-Madina-Channel.webp?fit=800%2C500&ssl=1" group-title="Saluran",Al Sunnah Al Nabawiyah TV (Tv Madinah)
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1  tvg-name="ANTV" tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="Saluran",ANTV
+#EXTVLCOPT:http-referrerhttps://www.rctiplus.com/
 #KODIPROP:inputstream=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 #KODIPROP:key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="Saluran",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1  tvg-id="GTV.id" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="Saluran",GTV
+#EXTVLCOPT:http-referrerhttps://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-#EXTINF:0 tvg-id="MNCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="Saluran", MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1  tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="Saluran",MNCTV
+#EXTVLCOPT:http-referrerhttps://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Saluran",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1  tvg-id="RCTI.id" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Saluran",RCTI
+#EXTVLCOPT:http-referrerhttps://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd 
 #EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/PAy1NQ4.png" group-title="Saluran",iNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-referrerhttps://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1  tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar
+#EXTVLCOPT:http-user-agentExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#KODIPROP:key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar Digital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+#EXTINF:-1  tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar Digital
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 https://rahmatsmpn3sbg.co-id.id/$k0detv9246/indosliga.m3u8
 #EXTINF:-1  tvg-name="Moji" tvg-id="Moji.id" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="Saluran",MOJI
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTINF:-1  tvg-name="Moji Digital" tvg-id="Moji.id" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="Saluran",MOJI Digital
-#EXTVLCOPT:http-user-agentMozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agentozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream=inputstream.adaptive
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1  tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV
+#EXTVLCOPT:http-user-agentExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+#KODIPROP:key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-#EXTINF:-1  tvg-name="SCTV ᴴᴰ" tvg-id="SCTV.my.id" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV Digital
+#EXTINF:-1  tvg-name="SCTV ᴴᴰ" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV Digital
 #KODIPROP:inputstream=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
 #KODIPROP:key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
 https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
-#EXTINF:-1 tvg-id="MentariTV.id" group-title="Saluran" tvg-name="Mentari TV" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Thumbnail_Mentari-TV-qx1l3z44lqjtbv14zkcaulb5cfxq4iipbwg771feoe.jpg",MENTARI TV HD
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1  tvg-name="Mentari TV" tvg-id="MentariTV.id" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Thumbnail_Mentari-TV-qx1l3z44lqjtbv14zkcaulb5cfxq4iipbwg771feoe.jpg" group-title="Saluran",MENTARI TV HD
+#EXTVLCOPT:http-referrerhttps://www.visionplus.id/
+#EXTVLCOPT:http-user-agentOxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#KODIPROP:inputstream=7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=7
-#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/02/Trans7-Landscape.jpg" group-title="Saluran",Trans7 HD
+#KODIPROP:inputstream.adaptive.license_key=7
+#KODIPROP:key=7
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
+#EXTINF:-1  tvg-id="Trans7.id" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/02/Trans7-Landscape.jpg" group-title="Saluran",Trans7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w365876275_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran",TransTV
+#EXTINF:-1  tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran",TransTV
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="Saluran",CNN Indonesia
 http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
@@ -77,11 +81,13 @@ http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
 #KODIPROP:key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTINF:-1  tvg-name="Kompas TV" tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/GelhQN9.png" group-title="Saluran",Kompas TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agentExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+#KODIPROP:key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://iili.io/JMp3eKg.png" group-title="Saluran", Magna Channel
+#EXTINF:-1  tvg-name="Magna Channel" tvg-id="MagnaChannel.id" tvg-logo="https://iili.io/JMp3eKg.png" group-title="Saluran",Magna Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 #EXTINF:-1  tvg-name="NET." tvg-id="NET.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkWpWhpg7-8y7i8F5tZ6EmY-KF0cOiKhdVw&s" group-title="Saluran",MDTV
 #KODIPROP:inputstream=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
@@ -96,60 +102,71 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #KODIPROP:key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
 #EXTINF:-1  tvg-name="BeritaSatu" tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/T070Wbh.png" group-title="Saluran",Beritasatu
-#EXTVLCOPT:http-user-agentMozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agentozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 #EXTINF:-1  tvg-name="Nusantara TV" tvg-id="Nusantara.TV.id" tvg-logo="https://www.nusantaratv.com/2024/06/siaran-1719414787-06-2024.jpg" group-title="Saluran",Nusantara TV
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1  tvg-name="BTV" tvg-id="BTV.id" tvg-logo="https://i.imgur.com/T070Wbh.png" group-title="Saluran",BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
-#EXTINF:-1  tvg-name="TVOne" tvg-id="tvOne.my.id" tvg-logo="https://i.imgur.com/tq4taTY.png" group-title="Saluran",TVOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1  tvg-name="TVOne" tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/tq4taTY.png" group-title="Saluran",TVOne
+#EXTVLCOPT:http-referrerhttps://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd 
 #EXTINF:-1  tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="Saluran",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 #EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="Saluran",TVRI World
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
-#EXTINF:-1 tvg-id="Sportstars.id" group-title="Saluran Olahraga" tvg-name="Sportstars" tvg-logo="https://i.imgur.com/OkQzNhc.png", | Sportstars
+#EXTINF:-1  tvg-name="Sportstars" tvg-id="Sportstars.id" tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="Saluran Olahraga",| Sportstars
+#KODIPROP:inputstream=112
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
+#KODIPROP:inputstream.adaptive.license_key=112
+#KODIPROP:key=112
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=112
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="Saluran Olahraga", SPORTSTARS 2
+#EXTINF:-1  tvg-name="Sportstars 2 HD" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="Saluran Olahraga",SPORTSTARS 2
+#KODIPROP:inputstream=113
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
+#KODIPROP:inputstream.adaptive.license_key=113
+#KODIPROP:key=113
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=113
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="Saluran Olahraga", SOCCER CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#EXTINF:-1  tvg-name="Soccer Channel" tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="Saluran Olahraga",SOCCER CHANNEL
+#KODIPROP:inputstream=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdL8HE4KYHPSgzpZrLAoCMLFQNLbqtjc3WvjfsbdMDFHYyJ8XMknX0WU&s=10" group-title="Saluran Olahraga", beIN Sports 1
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#EXTINF:-1  tvg-name="beIN Sports" tvg-id="beINSports1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdL8HE4KYHPSgzpZrLAoCMLFQNLbqtjc3WvjfsbdMDFHYyJ8XMknX0WU&s=10" group-title="Saluran Olahraga",beIN Sports 1
+#KODIPROP:inputstream=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="beIN Sports 2" tvg-logo="https://thumbor.prod.vidiocdn.com/4Gq0GkWs-JKQ0i7xVY6j7Uap14Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="Saluran Olahraga", beIN Sports 2
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1  tvg-name="beIN Sports 2" tvg-id="beINSports2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/4Gq0GkWs-JKQ0i7xVY6j7Uap14Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="Saluran Olahraga",beIN Sports 2
+#KODIPROP:inputstream=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="beIN Sports 3" tvg-logo="https://thumbor.prod.vidiocdn.com/4KssTLoB6zhR9rSWTPjdeG37sUM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6318/bein-3-c9b708.jpg" group-title="Saluran Olahraga", beIN Sports 3
+#KODIPROP:key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1  tvg-name="beIN Sports 3" tvg-id="beINSports3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/4KssTLoB6zhR9rSWTPjdeG37sUM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6318/bein-3-c9b708.jpg" group-title="Saluran Olahraga",beIN Sports 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BYw9xVW.png" group-title="Saluran Olahraga",SPOTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BYw9xVW.png" group-title="Saluran Olahraga",SPOTV
+#EXTVLCOPT:http-user-agentExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#KODIPROP:key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xXCBKAM.png" group-title="Saluran Olahraga",SPOTV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xXCBKAM.png" group-title="Saluran Olahraga",SPOTV 2
+#EXTVLCOPT:http-user-agentExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+#KODIPROP:key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTINF:-1  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000" group-title="Saluran Olahraga",DAZN 1 Spanyol
-#EXTVLCOPT:http-user-agentMozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agentozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -157,22 +174,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #KODIPROP:key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 #EXTINF:-1  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="Saluran Olahraga",DAZN 2 Spanyol
-#EXTVLCOPT:http-user-agentMozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agentozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 #KODIPROP:key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="Saluran Olahraga",Astro Football
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="Saluran Olahraga",Astro Football
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="Saluran Olahraga",Astro Grandstand
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="Saluran Olahraga",Astro Grandstand
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="Saluran Olahraga",Astro Premier League
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="Saluran Olahraga",Astro Premier League
 https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="Saluran Olahraga",Astro Arena Bola 1
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="Saluran Olahraga",Astro Arena Bola 1
 https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="Saluran Olahraga",Astro Arena Bola 2
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="Saluran Olahraga",Astro Arena Bola 2
 https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="Saluran Olahraga",Astro Badminton 2
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="Saluran Olahraga",Astro Badminton 2
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
