@@ -206,8 +206,12 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 #EXTVLCOPT:http-user-agent=xplayer168
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
 #EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsnPrfY09aClriQ1dEMDn7bvoH1FY9JwYtMUWaCSUX84Qt2qXFOramLyUwzJBu5mVz2g&usqp=CAU" group-title="Saluran Premium",HBO Family
-#EXTVLCOPT:http-user-agent=xplayer168
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="Saluran Premium",HBO Signature
 #EXTVLCOPT:http-user-agent=xplayer168
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
