@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_ID.xml"
 #EXTINF:-1 tvg-logo="" group-title="Saluran",0.Lapor Channel Mati https://t.me/semar_25
 https://amba.pages.dev/lapor/lapor.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
