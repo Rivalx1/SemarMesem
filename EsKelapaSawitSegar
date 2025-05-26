@@ -8,7 +8,8 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i0.wp.com/mexawy.online/wp-content/uploads/2020/04/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-Madina-Channel.webp?fit=800%2C500&ssl=1" group-title="Saluran",Al Sunnah Al Nabawiyah TV (Tv Madinah)
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1  tvg-name="ANTV" tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="Saluran",ANTV
-http://home-tv.online:80/play/XN6uJj6ZEuIx8Se63kdun_dE90ZCGFjT8GTf_WsTpz4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="Saluran",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -55,9 +56,10 @@ https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/02/Trans7-Landscape.jpg" group-title="Saluran",Trans7
-http://home-tv.online:80/play/XN6uJj6ZEuIx8Se63kdun0GeVSPG_rz7VG9l178KbCQ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Trans7-HD.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran",TransTV
-http://home-tv.online:80/play/XN6uJj6ZEuIx8Se63kdun_20zReQQLypppH2PcHYK4I
+https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
 #EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="Saluran",CNN Indonesia
 http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
 #EXTINF:-1  tvg-name="CNBC Indonesia" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/kwfGZ2N.png" group-title="Saluran",CNBC Indonesia
