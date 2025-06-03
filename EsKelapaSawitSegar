@@ -231,7 +231,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMowy0zFnoCFXCaPJBnWbZeDnqJISYqhUU_T-VqQ3R_Hy4D-_OX8wN-iaj&s=10" group-title="Saluran Olahraga", OPTUS SPORT 8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
-#EXTINF:-1  group-title="Saluran Premium" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.ibb.co.com/q0xKr36/aniplus.png", ANIPLUS
+#EXTINF:-1  group-title="Saluran Premium" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://images.indihometv.com/tvposter/aniplus.png", ANIPLUS
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -248,63 +248,93 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095 
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+#EXTINF:-1 group-title="Saluran Premium" tvg-logo="https://i.ytimg.com/vi/nrxN4yaZN5E/maxresdefault.jpg",AXN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08 
+https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 #EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Religi" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/cYjrKEVUBEgNSFGp-F_QtnYVUXE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg", Citra Muslim HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd 
-#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNqx-MAatDqHcaGMXpdyZjB7QWuPD9hAgUg&s", Citra Drama HD 
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNqx-MAatDqHcaGMXpdyZjB7QWuPD9hAgUg&s",Citra Drama
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd 
-#EXTINF:-1 group-title="Saluran Premium" tvg-name="" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/31hNNC8DYlvWojd9s5kk1eLcgnI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg", Citra Entertainment HD 
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/31hNNC8DYlvWojd9s5kk1eLcgnI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg",Citra Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd 
-#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvaeo_vWUDEUd0eGVEsxYuMUpA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg", Citra Dangdut HD 
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvaeo_vWUDEUd0eGVEsxYuMUpA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg",Citra Dangdut
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd 
-#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg", Citra Bioskop HD 
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd 
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2FAddon%2520Channel%2520TV%2520-%2520Icons%2FHBO%2520PACK%2520HD%2FHBO%2520SD-FirstMedia-Chl-285.jpg&w=1920&q=100" group-title="Saluran Premium",HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F9-MOVIES%2FHBO%20Hits%20SD-FirstMedia-Chl-287.jpg&w=1920&q=100s" group-title="Saluran Premium",HBO Hits 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsnPrfY09aClriQ1dEMDn7bvoH1FY9JwYtMUWaCSUX84Qt2qXFOramLyUwzJBu5mVz2g&usqp=CAU" group-title="Saluran Premium",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.pinimg.com/736x/d4/78/b4/d478b4e44efbbb8b18a718298a8509bb.jpg" group-title="Saluran Premium",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="Saluran Premium",HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStfnro2YbmqP7rdndoW0entbJWst5XVXvaYGKGtPDTLg66VubZ0wGoHeudAaqtl21qS0s&usqp=CAU" group-title="Saluran Premium",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HitsSID.png/revision/latest/scale-to-width-down/1200?cb=20250104102624",Hits 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a 
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd 
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/HitsMoviesSID.png/revision/latest/scale-to-width-down/1200?cb=20250104103345",Hits Movies
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c 
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd 
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://media.licdn.com/dms/image/v2/C5622AQFP3Jfk_9Jo6A/feedshare-shrink_800/feedshare-shrink_800/0/1665460126807?e=2147483647&v=beta&t=XUwO_ycpSV6LMsjah3z60LpcL7Jz6kAdH98M5f5rddY",Rock Action
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02 
+https://atemeshield1-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd 
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://cdn.prod.website-files.com/64e81e52acfdaa1696fd623f/64f40b55f762b61424f7a522_Rock_bg_2023_logo.jpg",Rock Entertainment 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819 
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/WyOH70QPRYe6fqguAwatxmRviDA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg",tvN 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576 
+https://atemeshield1-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd 
+#EXTINF:-1 group-title="Saluran Premium" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://i.ytimg.com/vi/8DpH-rFh_X4/maxresdefault.jpg",tvN Movies
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a 
+https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
