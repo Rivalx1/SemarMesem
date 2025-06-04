@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-logo="" group-title="Telegram https://t.me/semar_25",0.Lapor Channel Mati https://t.me/semar_25
 https://amba.pages.dev/lapor/lapor.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telegram https://t.me/semar_25",Live VNL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", VNL
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18851&type=drm
