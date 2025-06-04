@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-logo="" group-title="Telegram https://t.me/semar_25",0.Lapor Channel Mati https://t.me/semar_25
 https://amba.pages.dev/lapor/lapor.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telegram https://t.me/semar_25",Live VNL
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram https://t.me/semar_25",Live VNL
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18851&type=drm
