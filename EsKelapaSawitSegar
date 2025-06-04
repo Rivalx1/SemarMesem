@@ -5,7 +5,7 @@ https://amba.pages.dev/lapor/lapor.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18851&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i0.wp.com/mexawy.online/wp-content/uploads/2020/04/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-Madina-Channel.webp?fit=800%2C500&ssl=1" group-title="Saluran",Al Sunnah Al Nabawiyah TV (Tv Madinah)
