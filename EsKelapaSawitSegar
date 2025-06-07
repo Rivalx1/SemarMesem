@@ -128,10 +128,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
-#EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="Saluran",TVRI World
+#EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://ik.imagekit.io/goodid/gnfi/uploads/articles/large-opening-tvri-world-6981f018fc32d02858d280ae62d718d7.jpg?tr=w-730,h-486,fo-center" group-title="Saluran",TVRI World
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
-#EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="Saluran",TVRI Sport
+#EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Saluran",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
