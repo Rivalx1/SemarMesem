@@ -12,11 +12,11 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=1a3b4b940535c65afdebaf1d2a2445fe&wsABSTime=1749054890&wsSession=6339fa55ae0cedb8e17c9b14-174901169371934&wsIPSercert=a06d83423e5ce13fa3c7f7df3406480d&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/98/2024/10/19/Untitled-design-1-618434817.jpg" group-title="Telegram Semar",Live VNL#
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live VNL3
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://iptvtree.net:8080/live/F25093/29838750/298550.ts
+http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/98/2024/10/19/Untitled-design-1-618434817.jpg" group-title="Telegram Semar",Live U17
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
