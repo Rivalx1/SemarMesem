@@ -1,6 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-logo="" group-title="Telegram Semar",0. https://t.me/semar_25
-https://amba.pages.dev/lapor/lapor.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Redmi Note 9 Pro Build/SKQ1.211019.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.127 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://kkhokitvplayer.htmlplayer.xyz
+#EXTVLCOPT:http-referrer=https://kkhokitvplayer.htmlplayer.xyz/?server=beta&param=5dxAgnG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Redmi Note 9 Pro Build/SKQ1.211019.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.127 Mobile Safari/537.36
+https://hls.uouetrq19.com/live/sd-6MuSNZGHwLbGWo5Zno.flv?txSecret=2ac21a8b78d8e78ed803521f14d1ea41&txTime=6846A383
+#https://amba.pages.dev/lapor/lapor.m3u8
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live VNL
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
