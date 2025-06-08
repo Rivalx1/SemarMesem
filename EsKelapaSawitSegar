@@ -1,10 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-logo="" group-title="Telegram Semar",0. https://t.me/semar_25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Redmi Note 9 Pro Build/SKQ1.211019.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.127 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://kkhokitvplayer.htmlplayer.xyz
-#EXTVLCOPT:http-referrer=https://kkhokitvplayer.htmlplayer.xyz/?server=beta&param=5dxAgnG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Redmi Note 9 Pro Build/SKQ1.211019.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.127 Mobile Safari/537.36
-https://hls.uouetrq19.com/live/sd-6MuSNZGHwLbGWo5Zno.flv?txSecret=2ac21a8b78d8e78ed803521f14d1ea41&txTime=6846A383
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+https://tnt1-cf.boblcfwudz421.com/auth%3D746405139b28e23205e8ef89ce524e323db0af338f40d7f0f10be1a51f4be910417141e7cc6182f5c955ec008c73c22367d7dcec72ed38327bae9a29db4d3237322ca2343caa5f06f3376afc96da16574e45db096a301ef80c6941ccdfdcdb9389bc7f8bf0f6a0de9cee1c0c31c7bee1d9fd4b6b9130e5934ff2df3865744dce8e904429d835c8854bac54072b31800b8e6d776a0d54ce16146f8d7322eb83725dfdbee5aac939f034b1b7a3f87852e8%26cid%3DLJqau5esEd4ac42tV3zar250608%26_v%3D2%26_r%3DOdGrxb%26_vis%3Dc09c73a5241822b12c9ff6dffc8ec4aa01c62abe6f44881da34e8e4ce6b79ef2%26_vvs%3Dd02c706f8f657085d2fe0886a7b4187fe4f7c26b5fd60d146c9b11b45bb6ddf8/app/hyo01-s.spplyo258.com_c354934-1749376429765.ts
 #https://amba.pages.dev/lapor/lapor.m3u8
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live VNL
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
