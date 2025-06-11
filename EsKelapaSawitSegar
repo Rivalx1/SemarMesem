@@ -271,13 +271,10 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMowy0zFnoCFXCaPJBnWbZeDnqJISYqhUU_T-VqQ3R_Hy4D-_OX8wN-iaj&s=10" group-title="Saluran Olahraga", OPTUS SPORT 8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ch.semar.my.id/req?id=setanta1.m3u8&auth=stt1semar25
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ch.semar.my.id/req?id=setanta3.m3u8&auth=stt3semar25
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ch.semar.my.id/req?id=setanta4.m3u8&auth=stt4semar25
 #EXTINF:-1  group-title="Saluran Premium" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://images.indihometv.com/tvposter/aniplus.png", ANIPLUS
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
