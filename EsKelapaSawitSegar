@@ -198,7 +198,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="Saluran Olahraga", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR-1200-80.jpg" group-title="Saluran Olahraga",DAZN 1 DE
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznpt2.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznde1.m3u8
 #EXTINF:-1  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000" group-title="Saluran Olahraga",DAZN 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 #EXTINF:-1  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="Saluran Olahraga",DAZN 2
