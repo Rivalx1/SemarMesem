@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-logo="" group-title="Telegram Semar",0. https://t.me/semar_25
 #https://cdn.semar.my.id/
-#https://semar.my.id/lapor/lapor.m3u8
+https://semar.my.id/lapor/lapor.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://ch.semar.my.id/req?id=fifa1.m3u8&auth=fuc1semar25&url=up
+#https://ch.semar.my.id/req?id=fifa1.m3u8&auth=fuc1semar25&url=up
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live VNL
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
