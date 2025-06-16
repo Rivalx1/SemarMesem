@@ -23,9 +23,12 @@ https://semar.my.id/lapor/lapor.m3u8
 #EXTVLCOPT:http-referrer=ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0
 #https://tnt2-cf.boblcfwudz421.com/auth%3Da99ba271bd1cf8e2c3f0ec46cf56462cb16d310093c392047f91dc66a8df6be0e30f7a2b4330bb0e40b7c637c1ebfa0e7b74b4c38093dbe98f7aea4499c74dbb5b22ba3c1d4d78a6045ffa73f6125b6e56bd3068f1b091020d6cb1117e8738e8d2b5312c25c45829f8d019d7d7edd5741925b819b5a198fdc1ee080381c3b9f96095bf2e80b6b7a87608ba65a57e1add65fa0ef58e32df2756123ac9d360d3e4%26cid%3DoAaQNFh231W_u10Vz9EFf250608%26_v%3D2%26_r%3D5x9i2U%26_vis%3Ddb47c845f5b7be49498859377d2081e12946ea32353cbd1249087536745bfe9e%26_vvs%3Decc982c72777bf085621362c7cbf3b7ec4a2e51f465a593f6a805b9c8880ddad/app/c354930.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/98/2024/10/19/Untitled-design-1-618434817.jpg" group-title="Telegram Semar",Live U17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157591.ts
+#EXTINF:-1 tvg-logo="hhttps://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#https://ch.semar.my.id/req?id=fifa1.m3u8&auth=fuc1semar25&url=up
+#EXTINF:-1 tvg-logo="hhttps://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 2
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#https://ch.semar.my.id/req?id=fifa2.m3u8&auth=fuc2semar25&url=up
 #EXTINF:-1 tvg-logo="" group-title="Saluran",0. https://t.me/semar_25
 #https://cdn.semar.my.id/
 https://semar.my.id/lapor/lapor.m3u8
