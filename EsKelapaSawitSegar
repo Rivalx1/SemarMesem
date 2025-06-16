@@ -201,7 +201,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="Saluran Olahraga", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR-1200-80.jpg" group-title="Saluran Olahraga",DAZN 1 DE
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznde1.m3u8
+https://ch.semar.my.id/req?id=dazn1de.m3u8&auth=dazn1desemar25
+#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR-1200-80.jpg" group-title="Saluran Olahraga",DAZN 1 FR
+https://ch.semar.my.id/req?id=dazn1fr.m3u8&auth=dazn1frsemar25
 #EXTINF:-1  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000" group-title="Saluran Olahraga",DAZN 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 #EXTINF:-1  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="Saluran Olahraga",DAZN 2
@@ -282,7 +284,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 1
 https://ch.semar.my.id/req?id=setanta1.m3u8&auth=stt1semar25
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 2
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta2.m3u8
+https://ch.semar.my.id/req?id=setanta2.m3u8&auth=stt2semar25
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 3
 https://ch.semar.my.id/req?id=setanta3.m3u8&auth=stt3semar25
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 4
