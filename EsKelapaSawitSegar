@@ -28,7 +28,11 @@ https://semar.my.id/lapor/lapor.m3u8
 https://ch.semar.my.id/req?id=fifa1.m3u8&auth=fuc1semar25&url=up
 #EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://ch.semar.my.id/req?id=fifa2.m3u8&auth=fuc2semar25&url=up
+https://ch.semar.my.id/req?id=fifa3.m3u8&auth=fuc2semar25&url=up
+#EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 3
+https://ch.semar.my.id/req?id=fifa2.m3u8&auth=fuc3semar25&url=up
+#EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 4
+https://ch.semar.my.id/req?id=fifa4.m3u8&auth=fuc4semar25&url=up
 #EXTINF:-1 tvg-logo="" group-title="Saluran",0. https://t.me/semar_25
 #https://cdn.semar.my.id/
 https://semar.my.id/lapor/lapor.m3u8
