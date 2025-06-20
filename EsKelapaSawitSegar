@@ -7,13 +7,12 @@ https://semar.my.id/lapor/lapor.m3u8
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 #https://ch.semar.my.id/req?id=fifa1.m3u8&auth=fuc1semar25&url=up
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live Volly VNL 1
-https://ch.semar.my.id/req?id=vnl2.m3u8&auth=vnl2semar25&url=up
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live Volly VNL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 https://ch.semar.my.id/req?id=vnl1.m3u8&auth=vnl1semar25&url=up
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live Volly VNL 2
+https://ch.semar.my.id/req?id=vnl2.m3u8&auth=vnl2semar25&url=up
 #EXTINF:-1 tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg" group-title="Telegram Semar",Live Volly AVC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
@@ -79,7 +78,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1  tvg-name="Moji" tvg-id="Moji.id" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="Saluran",MOJI
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTINF:-1  tvg-name="Moji Digital" tvg-id="Moji.id" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="Saluran",MOJI Digital
-#https://ch.semar.my.id/req?id=mlg.m3u8&auth=mlgsemar25
+#https://ch.semar.my.id/req?id=mig.m3u8&auth=migsemar25
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
