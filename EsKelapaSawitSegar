@@ -6,12 +6,9 @@ https://semar.my.id/lapor/lapor.m3u8
 #EXTVLCOPT:http-origin=https://www.dazn.com
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 #https://ch.semar.my.id/req?id=fifa1.m3u8&auth=fuc1semar25&url=up
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live VNL
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18851&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live VNL
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live VNL 1
+https://ch.semar.my.id/req?id=vnl2.m3u8&auth=vnl2semar25&url=up
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live VNL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
