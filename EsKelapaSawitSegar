@@ -24,7 +24,7 @@ https://ch.semar.my.id/req?id=avc.m3u8&auth=avcsemar25&url=up
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTAyMjAwMTYxIiwiY2lkIjoibGl2ZV8xODkxM18yYmZhMTEwZTA0MjkiLCJwb2xpY3kiOiI1a3hrUzJHK0hsSFJvYWdvUDBhTndmMWJZdDEwSmVZSjJoQlZ6NzhsZDJnQlByQUVlOWdDT29Obm11SUliRnowdGhKeFlraHJoU1l5aEhqcUtxbG9vdmdsdUd3aU9OM3EyN2lBdUtTQXpxb3pScVp6eml1MzllL3kwQVh3eUtmdSIsInRpbWVzdGFtcCI6IjIwMjUtMDYtMjFUMDg6NTI6NDlaIiwiaGFzaCI6Ijdyc1YrRWdBeTViU0w0d0V3cnBlcVI2eWx1N0xZcVo0SkZ1dnpTdE1HeDA9Iiwia2V5X3JvdGF0aW9uIjpmYWxzZSwidmlkaW9fY29udGVudF9pZCI6MTg5MTMsInZpZGlvX2NvbnRlbnRfdHlwZSI6IkxpdmVzdHJlYW1pbmciLCJpc19wcmV2aWV3IjpmYWxzZX0%3D
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18913
 https://ch.semar.my.id/req?id=avc2.m3u8&auth=avc2semar25&url=up
 #EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
