@@ -8,7 +8,7 @@ https://ch.semar.my.id/req?id=tele.m3u8&auth=telesemar25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f96a8aa9ccb844336e872ad85f3203a:aac93460fdc84b594b6311ac3902d68b
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18833/file/drm/dash/18833_stream.mpd?hdntl=exp=1751117116~acl=%2fstream%2f18833%2ffile%2f*~id=177941483~data=hdntl~hmac=10d068a1044d8046cc8fa27470c96c8b0d5036d05eb23037b6c4c70da945f9d5
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18833/file/drm/dash/18833_stream.mpd?hdntl=exp=1751120489~acl=%2fstream%2f18833%2ffile%2f*~id=177941483~data=hdntl~hmac=10d068a1044d8046cc8fa27470c96c8b0d5036d05eb23037b6c4c70da945f9d5
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live Volly VNL 1
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
