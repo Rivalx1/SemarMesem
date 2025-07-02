@@ -3,6 +3,11 @@
 #https://cdn.semar.my.id/
 #https://semar.my.id/lapor/lapor.m3u8
 https://ch.semar.my.id/req?id=tele.m3u8&auth=telesemar25
+#EXTINF:-1 group-title="Telegram Semar" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/68/AFC_Women%27s_Asian_Cup.png", Pakistan vs Indonesia 2 Juli 2025 20:00 WIB 
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/ivvMjkqbXhOBADdUdV9RbA/Fv2lucGIbhPi2caWYvF5Lg/1751482188212/live/nuiSD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live Volly VNL 1
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
