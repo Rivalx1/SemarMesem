@@ -28,6 +28,11 @@ https://ch.semar.my.id/req?id=avc.m3u8&auth=avcsemar25&url=up
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18913
 https://ch.semar.my.id/req?id=avc2.m3u8&auth=avc2semar25&url=up
+#EXTINF:-1 group-title="Telegram Semar" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-logo="",Real Madrid vs. Borussia Dortmund
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://ftp.qtv.my.id/drm.kt?id=88ti5sc97yi8rk3qr4dtc3qsv&type=drm&token=7cd659d8b63b417885b99da153accea5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://ftp.qtv.my.id/manifest.mpd?id=88ti5sc97yi8rk3qr4dtc3qsv&type=dash&token=7cd659d8b63b417885b99da153accea5
 #EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://ch.semar.my.id/req?id=fifa1.m3u8&auth=fuc1semar25&url=up
