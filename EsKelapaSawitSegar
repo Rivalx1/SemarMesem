@@ -37,7 +37,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Saluran",RCTI cadangan
-#https://ch.semar.my.id/req?id=rdgtl.m3u8&auth=rdgtlsemar25
+#https://ch.semar.my.id/tv?id=rdgtl.m3u8&auth=rdgtlsemar25
 #EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/PAy1NQ4.png" group-title="Saluran",iNews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
@@ -50,12 +50,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar Digital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://ch.semar.my.id/req?id=idigital.m3u8&auth=idgtlsemar25&url=up
+https://ch.semar.my.id/tv?id=idigital.m3u8&auth=idgtlsemar25&url=up
 #EXTINF:-1  tvg-name="Moji" tvg-id="Moji.id" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="Saluran",MOJI
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTINF:-1  tvg-name="Moji Digital" tvg-id="Moji.id" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="Saluran",MOJI Digital
-https://ch.semar.my.id/req?id=mlg.m3u8&auth=mlgsemar25
+https://ch.semar.my.id/tv?id=mlg.m3u8&auth=mlgsemar25
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -330,13 +329,13 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 #EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars" tvg-logo="https://i.imgur.com/dIcTZj3.png" group-title="Saluran Olahraga", SPORTSTARS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://ch.semar.my.id/req?id=ss3.mpd&auth=ss3semar25&url=up
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pluse/index.drm?id=114
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Saluran Olahraga",SPORTSTARS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
@@ -381,13 +380,13 @@ https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="Saluran Olahraga", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR-1200-80.jpg" group-title="Saluran Olahraga",DAZN 1 DE
-https://ch.semar.my.id/req?id=dazn1de.m3u8&auth=dazn1desemar25
+https://ch.semar.my.id/tv?id=dazn1de.m3u8&auth=dazn1desemar25
 #EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR-1200-80.jpg" group-title="Saluran Olahraga",DAZN 1 FR
-https://ch.semar.my.id/req?id=dazn1fr.m3u8&auth=dazn1frsemar25
+https://ch.semar.my.id/tv?id=dazn1fr.m3u8&auth=dazn1frsemar25
 #EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR-1200-80.jpg" group-title="Saluran Olahraga",DAZN IT
-https://ch.semar.my.id/req?id=dazn1it.m3u8&auth=dazn1itsemar25
+https://ch.semar.my.id/tv?id=dazn1it.m3u8&auth=dazn1itsemar25
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjjVp92SN7TK92qk2hrLwALpYgd7O7j_WmA&s" group-title="Saluran Olahraga",TRT SPOR
-https://ch.semar.my.id/req?id=trt.m3u8&auth=trtsemar25
+https://ch.semar.my.id/tv?id=trt.m3u8&auth=trtsemar25
 #EXTINF:-1  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000" group-title="Saluran Olahraga",DAZN 1
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 #EXTINF:-1  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="Saluran Olahraga",DAZN 2
@@ -401,7 +400,7 @@ https://ch.semar.my.id/req?id=trt.m3u8&auth=trtsemar25
 #EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=u44wia687fzk1gor2lhdr8vbo_image-header_pRow_1720521801000", DAZN 6
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
 #EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="https://540k006f.tinifycdn.com/images/content/sky_sport_f1_logo_header_landscape_min.jpg", DE: SKY SPORT F1
-https://ch.semar.my.id/req?id=skysportsf1.m3u8&auth=skf1semar25
+https://ch.semar.my.id/tv?id=skysportsf1.m3u8&auth=skf1semar25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="Saluran Olahraga",Astro Football
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="Saluran Olahraga",Astro Grandstand
@@ -460,25 +459,25 @@ https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMowy0zFnoCFXCaPJBnWbZeDnqJISYqhUU_T-VqQ3R_Hy4D-_OX8wN-iaj&s=10" group-title="Saluran Olahraga", OPTUS SPORT 8
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 1
-https://ch.semar.my.id/req?id=setanta1.m3u8&auth=stt1semar25
+https://ch.semar.my.id/tv?id=setanta1.m3u8&auth=stt1semar25
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 2
-https://ch.semar.my.id/req?id=setanta2.m3u8&auth=stt2semar25
+https://ch.semar.my.id/tv?id=setanta2.m3u8&auth=stt2semar25
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 3
-https://ch.semar.my.id/req?id=setanta3.m3u8&auth=stt3semar25
+https://ch.semar.my.id/tv?id=setanta3.m3u8&auth=stt3semar25
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="Saluran Olahraga", Setanta Sports 4
-https://ch.semar.my.id/req?id=setanta4.m3u8&auth=stt4semar25
+https://ch.semar.my.id/tv?id=setanta4.m3u8&auth=stt4semar25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="Saluran Olahraga", Sport.TV1
-https://ch.semar.my.id/req?id=sporttv1.m3u8&auth=spt1semar25
+https://ch.semar.my.id/tv?id=sporttv1.m3u8&auth=spt1semar25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV2.png" group-title="Saluran Olahraga", Sport.TV2
-https://ch.semar.my.id/req?id=sporttv2.m3u8&auth=spt2semar25
+https://ch.semar.my.id/tv?id=sporttv2.m3u8&auth=spt2semar25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV3.png" group-title="Saluran Olahraga", Sport.TV3
-https://ch.semar.my.id/req?id=sporttv3.m3u8&auth=spt3semar25
+https://ch.semar.my.id/tv?id=sporttv3.m3u8&auth=spt3semar25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV4.png" group-title="Saluran Olahraga", Sport.TV4
-https://ch.semar.my.id/req?id=sporttv4.m3u8&auth=spt4semar25
+https://ch.semar.my.id/tv?id=sporttv4.m3u8&auth=spt4semar25
 #EXTINF:-1 tvg-logo="" group-title="Telegram Semar",0. https://t.me/semar_25
 #https://cdn.semar.my.id/
 #https://semar.my.id/lapor/lapor.m3u8
-https://ch.semar.my.id/req?id=tele.m3u8&auth=telesemar25
+https://ch.semar.my.id/tv?id=tele.m3u8&auth=telesemar25
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/68/AFC_Women%27s_Asian_Cup.png" group-title="Telegram Semar", Taipei vs Indonesia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -488,22 +487,22 @@ https://ch.semar.my.id/req?id=tele.m3u8&auth=telesemar25
 #EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://ch.semar.my.id/req?id=vnl1.m3u8&auth=vnl1semar25&url=up
+https://ch.semar.my.id/tv?id=vnl1.m3u8&auth=vnl1semar25&url=up
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live Volly VNL 2
-https://ch.semar.my.id/req?id=vnl2.m3u8&auth=vnl2semar25
+https://ch.semar.my.id/tv?id=vnl2.m3u8&auth=vnl2semar25
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/VNL-putri-2025.jpg" group-title="Telegram Semar",Live Volly VNL3
-https://ch.semar.my.id/req?id=vnl3.m3u8&auth=vnl3semar25
+https://ch.semar.my.id/tv?id=vnl3.m3u8&auth=vnl3semar25
 #EXTINF:-1 tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg" group-title="Telegram Semar",Live Volly AVC/VNL 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
-https://ch.semar.my.id/req?id=avc.m3u8&auth=avcsemar25&url=up
+https://ch.semar.my.id/tv?id=avc.m3u8&auth=avcsemar25&url=up
 #EXTINF:-1 tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg" group-title="Telegram Semar",Live Volly AVC 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18913
-https://ch.semar.my.id/req?id=avc2.m3u8&auth=avc2semar25&url=up
+https://ch.semar.my.id/tv?id=avc2.m3u8&auth=avc2semar25&url=up
 #EXTINF:-1 group-title="Telegram Semar" tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-logo="",Real Madrid vs. Borussia Dortmund
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://ftp.qtv.my.id/drm.kt?id=88ti5sc97yi8rk3qr4dtc3qsv&type=drm&token=7cd659d8b63b417885b99da153accea5
@@ -511,11 +510,11 @@ https://ch.semar.my.id/req?id=avc2.m3u8&auth=avc2semar25&url=up
 http://ftp.qtv.my.id/manifest.mpd?id=88ti5sc97yi8rk3qr4dtc3qsv&type=dash&token=7cd659d8b63b417885b99da153accea5
 #EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://ch.semar.my.id/req?id=fifa1.m3u8&auth=fuc1semar25&url=up
+https://ch.semar.my.id/tv?id=fifa1.m3u8&auth=fuc1semar25&url=up
 #EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 2
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://ch.semar.my.id/req?id=fifa2.m3u8&auth=fuc2semar25&url=up
+https://ch.semar.my.id/tv?id=fifa2.m3u8&auth=fuc2semar25&url=up
 #EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 3
-https://ch.semar.my.id/req?id=fifa3.m3u8&auth=fuc3semar25&url=up
+https://ch.semar.my.id/tv?id=fifa3.m3u8&auth=fuc3semar25&url=up
 #EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/49b79317-0cbb-4cfd-a060-9262e7324c6a/Disen%CC%83o%20sin%20ti%CC%81tulo%20%283%29.png?ver=03-06-2025?w=3840&q=75" group-title="Telegram Semar",Live FIFA World Club 4
-https://ch.semar.my.id/req?id=fifa4.m3u8&auth=fuc4semar25&url=up
+https://ch.semar.my.id/tv?id=fifa4.m3u8&auth=fuc4semar25&url=up
